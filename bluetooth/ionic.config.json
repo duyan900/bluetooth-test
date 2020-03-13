@@ -1,0 +1,8 @@
+{
+  "name": "bluetooth",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
